@@ -1,0 +1,106 @@
+.fundo{
+    background-image: url(../img/boh.jpg);
+}
+.btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #f1f1f1;
+    color: black;
+    font-size: 16px;
+    padding: 16px 30px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+}
+  
+.btn:hover {
+    background-color: black;
+    color: white;
+}
+.caixa1{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    font-size: 30px;
+}
+.caixa2{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -70%);
+    -ms-transform: translate(-50%, -70%);
+    font-size: 30px;
+}
+.bu{
+    position: absolute;
+    top: 50%;
+    left: 36%;
+    transform: translate(-50%, -70%);
+    -ms-transform: translate(-50%, -70%);
+    font-size: 20px;
+    border-radius: 6%;
+    border-color: rgb(163, 145, 165);
+}
+.bu1{
+    position: absolute;
+    top: 50%;
+    left: 39%;
+    transform: translate(-50%, -70%);
+    -ms-transform: translate(-50%, -70%);
+    font-size: 20px;
+    border-radius: 6%;
+    border-color: rgb(163, 145, 165);
+}
+.testin{
+    font-size: 40px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -20%);
+    -ms-transform: translate(-50%, -50%);
+}
+.resu{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -70%);
+    -ms-transform: translate(-50%, -70%);
+    font-size: 30px;
+}
+.resu1{
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -70%);
+    -ms-transform: translate(-50%, -70%);
+    font-size: 30px;
+}
+.resu2{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -70%);
+    -ms-transform: translate(-50%, -70%);
+    font-size: 25px;
+    background-color: azure;
+    border-radius: 3px;
+}
+.ofu{
+    background-color: thistle;
+    padding: 16px;
+}
+#n_2{
+    border-radius: 3px;
+    border-color: rgb(163, 145, 165);
+    font-size: 20px;    
+}
+#n_1{
+    border-radius: 3px;
+    border-color: rgb(163, 145, 165);
+    font-size: 20px;
+}
